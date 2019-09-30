@@ -21,4 +21,5 @@ public class test {
 	String spring = "Á¤¿øÇü";
 	String asdasd  = "asead";
 	String a123123 = "Asfsadf";
+	String test = "?";
 }
