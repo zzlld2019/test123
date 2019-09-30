@@ -6,7 +6,9 @@ public class test {
 	String aname="aa";
 	int i =123;
 	public void asd() {
-		
+		String coffee = "wonjo";
 	}
 	String ddd = null;
+	
+	int abcd = 5;
 }
