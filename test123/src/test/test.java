@@ -9,7 +9,7 @@ public class test {
 		String coffee = "wonjo";
 	}
 	String ddd = null;
-	
+	int aa = 1;
 	int abcd = 5;
 	String ttt = null;
 }
