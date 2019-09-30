@@ -20,4 +20,5 @@ public class test {
 	int asda =123123;
 	String spring = "Á¤¿øÇü";
 	String test = "123";
+	int dasd = 123;
 }
