@@ -15,4 +15,5 @@ public class test {
 	String ttt = null;
 	int asda =123123;
 	String spring = "Á¤¿øÇü";
+	String asdasd  = "asead";
 }
