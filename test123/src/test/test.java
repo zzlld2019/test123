@@ -7,4 +7,5 @@ public class test {
 	public void asd() {
 		
 	}
+	String ddd = null;
 }
