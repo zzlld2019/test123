@@ -12,4 +12,6 @@ public class test {
 	
 	int abcd = 5;
 	String ttt = null;
+	
+	String spring = "Á¤¿øÇü";
 }
