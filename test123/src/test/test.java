@@ -11,4 +11,5 @@ public class test {
 	String ddd = null;
 	
 	int abcd = 5;
+	String ttt = null;
 }
