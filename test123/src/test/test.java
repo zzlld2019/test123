@@ -1,6 +1,6 @@
 package test;
 
 public class test {
-	String name = null;
+	String name = "adcc";
 	String ename = "ee";
 }
